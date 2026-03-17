@@ -1,0 +1,3737 @@
+{
+"Summary": {
+  "Prefix": "test-scan_1",
+  "UserName": "hiroshi",
+  "ProfileName": "Default User",
+  "MicroManagerVersion": "2.0.3 20260211",
+  "MetadataVersion": "12.0.0",
+  "ComputerName": "nanomate202410",
+  "Directory": "C:/Users/hiros/Desktop/Boris-TEST/18-02//test-scan8_11",
+  "ChannelGroup": "",
+  "ChNames": [
+    "Default"
+  ],
+  "z-step_um": 0.0,
+  "Interval_ms": 0.0,
+  "CustomIntervals_ms": [],
+  "AxisOrder": [
+    "channel",
+    "z",
+    "position",
+    "time"
+  ],
+  "TimeFirst": true,
+  "SlicesFirst": true,
+  "IntendedDimensions": {
+    "time": 1,
+    "position": 144,
+    "z": 1,
+    "channel": 1
+  },
+  "Frames": 1,
+  "Positions": 144,
+  "Slices": 1,
+  "Channels": 1,
+  "StartTime": "2026-02-18 17:56:53.112 +0900",
+  "StagePositions": [
+    {
+      "Label": "Posvoid",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid1",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid2",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid3",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid4",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid5",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid6",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid7",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid8",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid9",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid10",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid11",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            34.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid12",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid13",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid14",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid15",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid16",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid17",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid18",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid19",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid20",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid21",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid22",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid23",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            35.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid24",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid25",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid26",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid27",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid28",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid29",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid30",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid31",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid32",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid33",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid34",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid35",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            35.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid36",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid37",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid38",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid39",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid40",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid41",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid42",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid43",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid44",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid45",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid46",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid47",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            35.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid48",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid49",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid50",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid51",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid52",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid53",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid54",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid55",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid56",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid57",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid58",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid59",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            35.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid60",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid61",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid62",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid63",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid64",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid65",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid66",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid67",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid68",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid69",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid70",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid71",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            35.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid72",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid73",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid74",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid75",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid76",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid77",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid78",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid79",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid80",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid81",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid82",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid83",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            36.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid84",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid85",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid86",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid87",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid88",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid89",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid90",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid91",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid92",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid93",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid94",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid95",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            36.22
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid96",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid97",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid98",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid99",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid100",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid101",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid102",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid103",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid104",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid105",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid106",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid107",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            36.42
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid108",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid109",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid110",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid111",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid112",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid113",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid114",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid115",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid116",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid117",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid118",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid119",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            36.62
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid120",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid121",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid122",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid123",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid124",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid125",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid126",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid127",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid128",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid129",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid130",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid131",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            36.82
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid132",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            38.080000000000005,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid133",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.88,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid134",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.68,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid135",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.480000000000004,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid136",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.28,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid137",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            37.080000000000005,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid138",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.88,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid139",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.68,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid140",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.480000000000004,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid141",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.28,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid142",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            36.080000000000005,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Posvoid143",
+      "DefaultXYStage": "PIXYStage",
+      "DefaultZStage": "PIZStage",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "PIXYStage",
+          "Position_um": [
+            35.88,
+            37.02
+          ]
+        },
+        {
+          "Device": "PIZStage",
+          "Position_um": [
+            3.225605011
+          ]
+        }
+      ]
+    }
+  ],
+  "KeepShutterOpenSlices": false,
+  "KeepShutterOpenChannels": false,
+  "MdaSettings": "{\n  \"numFrames\": 1,\n  \"intervalMs\": 0.0,\n  \"displayTimeUnit\": 0,\n  \"useCustomIntervals\": false,\n  \"channels\": [],\n  \"slices\": [],\n  \"relativeZSlice\": true,\n  \"slicesFirst\": false,\n  \"timeFirst\": false,\n  \"keepShutterOpenSlices\": false,\n  \"keepShutterOpenChannels\": false,\n  \"useAutofocus\": false,\n  \"skipAutofocusCount\": 0,\n  \"save\": true,\n  \"saveMode\": \"MULTIPAGE_TIFF\",\n  \"root\": \"C:/Users/hiros/Desktop/Boris-TEST/18-02//test-scan8_11\",\n  \"prefix\": \"test-scan\",\n  \"zReference\": 3.225623608,\n  \"comment\": \"\",\n  \"channelGroup\": \"\",\n  \"usePositionList\": true,\n  \"cameraTimeout\": 20000,\n  \"shouldDisplayImages\": true,\n  \"useSlices\": false,\n  \"useFrames\": true,\n  \"useChannels\": false,\n  \"sliceZStepUm\": 1.0,\n  \"sliceZBottomUm\": 0.0,\n  \"sliceZTopUm\": 0.0,\n  \"acqOrderMode\": 0,\n  \"isTestAcquisition\": false,\n  \"version\": 1.4\n}",
+  "PixelType": "GRAY16",
+  "Width": 640,
+  "Height": 30,
+  "UserData": {
+    "CameraTimeout": {
+      "type": "STRING",
+      "scalar": "20000"
+    },
+    "Depth": {
+      "type": "STRING",
+      "scalar": "2"
+    }
+  },
+  "InitialScopeData": {
+    "Core-AutoFocus": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "Core-AutoShutter": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "Core-Camera": {
+      "type": "STRING",
+      "scalar": "NIRvana HS - X115480925"
+    },
+    "Core-ChannelGroup": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "Core-Focus": {
+      "type": "STRING",
+      "scalar": "PIZStage"
+    },
+    "Core-Galvo": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "Core-ImageProcessor": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "Core-Initialize": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "Core-SLM": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "Core-Shutter": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "Core-TimeoutMs": {
+      "type": "STRING",
+      "scalar": "5000"
+    },
+    "Core-XYStage": {
+      "type": "STRING",
+      "scalar": "PIXYStage"
+    },
+    "NIRvana HS - X115480925-Binning": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "NIRvana HS - X115480925-BinningX": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "NIRvana HS - X115480925-BinningY": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "NIRvana HS - X115480925-CCDTemperature": {
+      "type": "STRING",
+      "scalar": "22.0000"
+    },
+    "NIRvana HS - X115480925-CCDTemperatureSetPoint": {
+      "type": "STRING",
+      "scalar": "-50.0000"
+    },
+    "NIRvana HS - X115480925-Description": {
+      "type": "STRING",
+      "scalar": "PICAM API device adapter"
+    },
+    "NIRvana HS - X115480925-DisableCoolingFan": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-Exposure": {
+      "type": "STRING",
+      "scalar": "10.00"
+    },
+    "NIRvana HS - X115480925-Gain": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "NIRvana HS - X115480925-InvertOutputSignal": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-Name": {
+      "type": "STRING",
+      "scalar": "NIRvana HS"
+    },
+    "NIRvana HS - X115480925-OutputSignal": {
+      "type": "STRING",
+      "scalar": "Exposing"
+    },
+    "NIRvana HS - X115480925-OutputTriggerFirstMissing": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-PICAM Version": {
+      "type": "STRING",
+      "scalar": "5.16"
+    },
+    "NIRvana HS - X115480925-PixelType": {
+      "type": "STRING",
+      "scalar": "16bit"
+    },
+    "NIRvana HS - X115480925-ReadoutControl": {
+      "type": "STRING",
+      "scalar": "Full Frame"
+    },
+    "NIRvana HS - X115480925-ReadoutRate": {
+      "type": "STRING",
+      "scalar": "25MHz 16bit"
+    },
+    "NIRvana HS - X115480925-SerialNumber": {
+      "type": "STRING",
+      "scalar": "X115480925"
+    },
+    "NIRvana HS - X115480925-ShutterCloseDelay": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-ShutterMode": {
+      "type": "STRING",
+      "scalar": "Always Open"
+    },
+    "NIRvana HS - X115480925-ShutterOpenDelay": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-TransposeCorrection": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-TransposeMirrorX": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-TransposeMirrorY": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-TransposeXY": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "NIRvana HS - X115480925-Trigger Timeout (secs)": {
+      "type": "STRING",
+      "scalar": "2"
+    },
+    "NIRvana HS - X115480925-TriggerDetermination": {
+      "type": "STRING",
+      "scalar": "Rising Edge"
+    },
+    "NIRvana HS - X115480925-TriggerMode": {
+      "type": "STRING",
+      "scalar": "No Response"
+    },
+    "NIRvana HS - X115480925-X-dimension": {
+      "type": "STRING",
+      "scalar": "640"
+    },
+    "NIRvana HS - X115480925-Y-dimension": {
+      "type": "STRING",
+      "scalar": "512"
+    },
+    "PIController-DLL Name": {
+      "type": "STRING",
+      "scalar": "PI_GCS2_DLL_x64.dll"
+    },
+    "PIController-Description": {
+      "type": "STRING",
+      "scalar": "Physik Instrumente (PI) GCS DLL Adapter"
+    },
+    "PIController-Interface Parameter": {
+      "type": "STRING",
+      "scalar": "0117022838"
+    },
+    "PIController-Interface Type": {
+      "type": "STRING",
+      "scalar": "USB"
+    },
+    "PIController-Name": {
+      "type": "STRING",
+      "scalar": "PI_GCSController_DLL"
+    },
+    "PIController-Send command": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIController-um in default unit": {
+      "type": "STRING",
+      "scalar": "1.0000"
+    },
+    "PIXYStage-Axes enabled (EAX)": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "PIXYStage-Axis X: Alternative Homing Command": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIXYStage-Axis X: HomingMode": {
+      "type": "STRING",
+      "scalar": "FNL"
+    },
+    "PIXYStage-Axis X: Name": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "PIXYStage-Axis X: Stage": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIXYStage-Axis X: Velocity": {
+      "type": "STRING",
+      "scalar": "1250.0000"
+    },
+    "PIXYStage-Axis Y: Alternative Homing Command": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIXYStage-Axis Y: HomingMode": {
+      "type": "STRING",
+      "scalar": "FNL"
+    },
+    "PIXYStage-Axis Y: Name": {
+      "type": "STRING",
+      "scalar": "2"
+    },
+    "PIXYStage-Axis Y: Stage": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIXYStage-Axis Y: Velocity": {
+      "type": "STRING",
+      "scalar": "1250.0000"
+    },
+    "PIXYStage-Axis in error state": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "PIXYStage-Controller Name": {
+      "type": "STRING",
+      "scalar": "PIController"
+    },
+    "PIXYStage-Controller Name for Y axis": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIXYStage-Description": {
+      "type": "STRING",
+      "scalar": "Physik Instrumente (PI) GCS DLL Adapter"
+    },
+    "PIXYStage-Name": {
+      "type": "STRING",
+      "scalar": "PIXYStage"
+    },
+    "PIXYStage-Servo control activated (SVO)": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "PIXYStage-TransposeMirrorX": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "PIXYStage-TransposeMirrorY": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "PIZStage-Alternative Homing Command": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIZStage-Axis": {
+      "type": "STRING",
+      "scalar": "3"
+    },
+    "PIZStage-Axis enabled (EAX)": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "PIZStage-Axis in error state": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "PIZStage-Controller Name": {
+      "type": "STRING",
+      "scalar": "PIController"
+    },
+    "PIZStage-Description": {
+      "type": "STRING",
+      "scalar": "Physik Instrumente (PI) GCS DLL Adapter"
+    },
+    "PIZStage-HOMING": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "PIZStage-Invert travel range": {
+      "type": "STRING",
+      "scalar": "0"
+    },
+    "PIZStage-Limit_um": {
+      "type": "STRING",
+      "scalar": "50.0000"
+    },
+    "PIZStage-Name": {
+      "type": "STRING",
+      "scalar": "PIZStage"
+    },
+    "PIZStage-Position": {
+      "type": "STRING",
+      "scalar": "3.2267"
+    },
+    "PIZStage-Servo control activated (SVO)": {
+      "type": "STRING",
+      "scalar": "1"
+    },
+    "PIZStage-Stage": {
+      "type": "STRING",
+      "scalar": ""
+    },
+    "PIZStage-Velocity": {
+      "type": "STRING",
+      "scalar": "250.0000"
+    }
+  }
+},
+"FrameKey-0-0-0": {
+  "UUID": "3f0cd72b-c519-45de-9101-1f542a07fb51",
+  "Camera": "NIRvana HS - X115480925",
+  "Binning": 1,
+  "ROI": "0-241-640-30",
+  "BitDepth": 16,
+  "Exposure-ms": 10.0,
+  "ElapsedTime-ms": 2733.0,
+  "ReceivedTime": "2026-02-18 17:56:55.849 +0900",
+  "PixelSizeUm": 0.0,
+  "PixelSizeAffine": "0.0;0.0;0.0;0.0;0.0;0.0",
+  "PositionName": "Posvoid43",
+  "XPositionUm": 36.68,
+  "YPositionUm": 35.42,
+  "ZPositionUm": 3.225605011,
+  "NIRvana HS - X115480925-SerialNumber": "X115480925",
+  "NIRvana HS - X115480925-BinningX": "1",
+  "NIRvana HS - X115480925-CCDTemperatureSetPoint": "-50.0000",
+  "NIRvana HS - X115480925-BinningY": "1",
+  "NIRvana HS - X115480925-InvertOutputSignal": "0",
+  "NIRvana HS - X115480925-Gain": "1",
+  "PIXYStage-Axis X: Alternative Homing Command": "",
+  "PIXYStage-Axis Y: Alternative Homing Command": "",
+  "NIRvana HS - X115480925-TransposeMirrorX": "0",
+  "PIController-Name": "PI_GCSController_DLL",
+  "PIXYStage-Servo control activated (SVO)": "1",
+  "PIController-Description": "Physik Instrumente (PI) GCS DLL Adapter",
+  "PIXYStage-Axes enabled (EAX)": "1",
+  "NIRvana HS - X115480925-TransposeMirrorY": "0",
+  "PIXYStage-Axis X: Velocity": "1250.0000",
+  "Core-ImageProcessor": "",
+  "PIXYStage-Controller Name": "PIController",
+  "Core-SLM": "",
+  "PIXYStage-Axis Y: Velocity": "1250.0000",
+  "PIZStage-Axis enabled (EAX)": "1",
+  "PIXYStage-Axis X: HomingMode": "FNL",
+  "NIRvana HS - X115480925-ReadoutControl": "Full Frame",
+  "PIXYStage-Axis Y: HomingMode": "FNL",
+  "PIXYStage-TransposeMirrorX": "0",
+  "NIRvana HS - X115480925-Trigger Timeout (secs)": "2",
+  "Core-Focus": "PIZStage",
+  "PIXYStage-TransposeMirrorY": "0",
+  "PIController-Interface Parameter": "0117022838",
+  "Core-ChannelGroup": "",
+  "NIRvana HS - X115480925-Exposure": "10.00",
+  "PIZStage-Alternative Homing Command": "",
+  "NIRvana HS - X115480925-OutputTriggerFirstMissing": "0",
+  "NIRvana HS - X115480925-PICAM Version": "5.16",
+  "PIController-Send command": "",
+  "PIZStage-Description": "Physik Instrumente (PI) GCS DLL Adapter",
+  "PIZStage-Limit_um": "50.0000",
+  "PIZStage-HOMING": "0",
+  "NIRvana HS - X115480925-OutputSignal": "Exposing",
+  "PIZStage-Axis in error state": "0",
+  "NIRvana HS - X115480925-ShutterMode": "Always Open",
+  "PIZStage-Velocity": "250.0000",
+  "NIRvana HS - X115480925-X-dimension": "640",
+  "NIRvana HS - X115480925-Name": "NIRvana HS",
+  "NIRvana HS - X115480925-TriggerDetermination": "Rising Edge",
+  "PIZStage-Stage": "",
+  "PIController-um in default unit": "1.0000",
+  "Core-XYStage": "PIXYStage",
+  "NIRvana HS - X115480925-ShutterOpenDelay": "0",
+  "NIRvana HS - X115480925-Y-dimension": "512",
+  "Core-AutoShutter": "1",
+  "PIZStage-Invert travel range": "0",
+  "PIZStage-Axis": "3",
+  "Core-Camera": "NIRvana HS - X115480925",
+  "PIXYStage-Axis X: Name": "1",
+  "NIRvana HS - X115480925-CCDTemperature": "22.0000",
+  "PIXYStage-Description": "Physik Instrumente (PI) GCS DLL Adapter",
+  "PIXYStage-Axis in error state": "0",
+  "NIRvana HS - X115480925-TransposeCorrection": "0",
+  "PIXYStage-Axis Y: Name": "2",
+  "PIXYStage-Name": "PIXYStage",
+  "PIXYStage-Axis Y: Stage": "",
+  "NIRvana HS - X115480925-ReadoutRate": "25MHz 16bit",
+  "NIRvana HS - X115480925-ShutterCloseDelay": "0",
+  "PIXYStage-Axis X: Stage": "",
+  "NIRvana HS - X115480925-TransposeXY": "0",
+  "NIRvana HS - X115480925-TriggerMode": "No Response",
+  "NIRvana HS - X115480925-Binning": "1",
+  "PIController-Interface Type": "USB",
+  "PIXYStage-Controller Name for Y axis": "",
+  "Core-TimeoutMs": "5000",
+  "NIRvana HS - X115480925-Description": "PICAM API device adapter",
+  "PIZStage-Position": "3.2267",
+  "PIZStage-Name": "PIZStage",
+  "Core-AutoFocus": "",
+  "PIZStage-Servo control activated (SVO)": "1",
+  "NIRvana HS - X115480925-PixelType": "16bit",
+  "Core-Galvo": "",
+  "Core-Initialize": "1",
+  "PIZStage-Controller Name": "PIController",
+  "PIController-DLL Name": "PI_GCS2_DLL_x64.dll",
+  "NIRvana HS - X115480925-DisableCoolingFan": "0",
+  "Core-Shutter": "",
+  "ScopeDataKeys": [
+    "NIRvana HS - X115480925-SerialNumber",
+    "NIRvana HS - X115480925-BinningX",
+    "NIRvana HS - X115480925-CCDTemperatureSetPoint",
+    "NIRvana HS - X115480925-BinningY",
+    "NIRvana HS - X115480925-InvertOutputSignal",
+    "NIRvana HS - X115480925-Gain",
+    "PIXYStage-Axis X: Alternative Homing Command",
+    "PIXYStage-Axis Y: Alternative Homing Command",
+    "NIRvana HS - X115480925-TransposeMirrorX",
+    "PIController-Name",
+    "PIXYStage-Servo control activated (SVO)",
+    "PIController-Description",
+    "PIXYStage-Axes enabled (EAX)",
+    "NIRvana HS - X115480925-TransposeMirrorY",
+    "PIXYStage-Axis X: Velocity",
+    "Core-ImageProcessor",
+    "PIXYStage-Controller Name",
+    "Core-SLM",
+    "PIXYStage-Axis Y: Velocity",
+    "PIZStage-Axis enabled (EAX)",
+    "PIXYStage-Axis X: HomingMode",
+    "NIRvana HS - X115480925-ReadoutControl",
+    "PIXYStage-Axis Y: HomingMode",
+    "PIXYStage-TransposeMirrorX",
+    "NIRvana HS - X115480925-Trigger Timeout (secs)",
+    "Core-Focus",
+    "PIXYStage-TransposeMirrorY",
+    "PIController-Interface Parameter",
+    "Core-ChannelGroup",
+    "NIRvana HS - X115480925-Exposure",
+    "PIZStage-Alternative Homing Command",
+    "NIRvana HS - X115480925-OutputTriggerFirstMissing",
+    "NIRvana HS - X115480925-PICAM Version",
+    "PIController-Send command",
+    "PIZStage-Description",
+    "PIZStage-Limit_um",
+    "PIZStage-HOMING",
+    "NIRvana HS - X115480925-OutputSignal",
+    "PIZStage-Axis in error state",
+    "NIRvana HS - X115480925-ShutterMode",
+    "PIZStage-Velocity",
+    "NIRvana HS - X115480925-X-dimension",
+    "NIRvana HS - X115480925-Name",
+    "NIRvana HS - X115480925-TriggerDetermination",
+    "PIZStage-Stage",
+    "PIController-um in default unit",
+    "Core-XYStage",
+    "NIRvana HS - X115480925-ShutterOpenDelay",
+    "NIRvana HS - X115480925-Y-dimension",
+    "Core-AutoShutter",
+    "PIZStage-Invert travel range",
+    "PIZStage-Axis",
+    "Core-Camera",
+    "PIXYStage-Axis X: Name",
+    "NIRvana HS - X115480925-CCDTemperature",
+    "PIXYStage-Description",
+    "PIXYStage-Axis in error state",
+    "NIRvana HS - X115480925-TransposeCorrection",
+    "PIXYStage-Axis Y: Name",
+    "PIXYStage-Name",
+    "PIXYStage-Axis Y: Stage",
+    "NIRvana HS - X115480925-ReadoutRate",
+    "NIRvana HS - X115480925-ShutterCloseDelay",
+    "PIXYStage-Axis X: Stage",
+    "NIRvana HS - X115480925-TransposeXY",
+    "NIRvana HS - X115480925-TriggerMode",
+    "NIRvana HS - X115480925-Binning",
+    "PIController-Interface Type",
+    "PIXYStage-Controller Name for Y axis",
+    "Core-TimeoutMs",
+    "NIRvana HS - X115480925-Description",
+    "PIZStage-Position",
+    "PIZStage-Name",
+    "Core-AutoFocus",
+    "PIZStage-Servo control activated (SVO)",
+    "NIRvana HS - X115480925-PixelType",
+    "Core-Galvo",
+    "Core-Initialize",
+    "PIZStage-Controller Name",
+    "PIController-DLL Name",
+    "NIRvana HS - X115480925-DisableCoolingFan",
+    "Core-Shutter"
+  ],
+  "UserData": {},
+  "FileName": "test-scan_1_MMStack_Posvoid43.ome.tif"
+}
+}
